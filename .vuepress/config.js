@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "记录改变",
+  description: '记录自己一点一点的改变',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -46,17 +46,11 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
-        desc: 'Enjoy when you can, and endure when you must.',
+        title: '兔窝窝',
+        desc: '不收费，无水印的素材网站',
         email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
-      },
-      {
-        title: 'vuepress-theme-reco',
-        desc: 'A simple and beautiful vuepress Blog & Doc theme.',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: 'https://vuepress-theme-reco.recoluan.com'
-      },
+        link: 'https://www.tuvovo.com'
+      }
     ],
     logo: '/logo.png',
     // 搜索设置
