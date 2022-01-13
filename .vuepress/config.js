@@ -1,5 +1,5 @@
 module.exports = {
-  title: "记录改变",
+  title: "记录改变 - 我不是大神",
   description: '记录自己一点一点的改变',
   dest: 'public',
   head: [
@@ -48,7 +48,7 @@ module.exports = {
       {
         title: '兔窝窝',
         desc: '不收费，无水印的素材网站',
-        email: '1156743527@qq.com',
+        email: 'xujingfire@qq.com',
         link: 'https://www.tuvovo.com'
       }
     ],
