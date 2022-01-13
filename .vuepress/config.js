@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/xujingfire', icon: 'reco-github' }
         ]
       }
     ],
@@ -61,13 +61,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: 'Fire',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    record: '京ICP备06060651号',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2022'
     /**
      * 密钥 (if your blog is private)
      */
