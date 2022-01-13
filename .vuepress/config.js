@@ -20,7 +20,8 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/xujingfire', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/xujingfire', icon: 'reco-github' },
+          { text: 'Email', link: 'xujingfire@gmail.com', icon: 'reco-github' }
         ]
       }
     ],
