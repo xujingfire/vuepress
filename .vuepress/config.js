@@ -64,7 +64,7 @@ module.exports = {
     // 作者
     author: 'Fire',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/avatar.svg',
     // 备案号
     record: '京ICP备06060651号',
     // 项目开始时间
