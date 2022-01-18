@@ -1,5 +1,5 @@
 ---
-title: 3D基础数学
+title: 3D基础数学 - 向量点乘（点积）、叉乘（叉积）
 date: 2022-1-17
 sidebar: 'auto'
 tags:
