@@ -43,12 +43,12 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
+      // '/docs/theme-reco/': [
+      //   '',
+      //   'theme',
+      //   'plugin',
+      //   'api'
+      // ]
     },
     type: 'blog',
     // 博客设置
