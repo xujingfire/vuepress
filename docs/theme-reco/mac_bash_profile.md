@@ -10,4 +10,4 @@ tag:
 解决办法
 
 在~/.zshrc文件最后，增加一行：
-source ~/.bash_profilema
+source ~/.bash_profile
