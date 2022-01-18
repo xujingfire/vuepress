@@ -111,7 +111,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@doc_images': 'doc_images'
+        // '@doc_images': 'doc_images'
       }
     }
   }
