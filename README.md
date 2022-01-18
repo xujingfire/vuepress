@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: LogChange
+tagline: 
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

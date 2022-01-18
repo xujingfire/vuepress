@@ -11,10 +11,24 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Docs', 
+      { text: 'Tech',
         icon: 'reco-message',
         items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
+          { text: 'Unity', link: '/blogs/Unity/' },
+          { text: 'Shader', link: '/blogs/Shader/' },
+          { text: '设计模式', link: '/blogs/dm/' }
+        ]
+      },
+      { text: '编程语言',
+        icon: 'reco-message',
+        items: [
+          { text: 'C#', link: '/blogs/language/CSharp/' },
+          { text: 'Javascript', link: '/blogs/language/Javascript/' },
+          { text: 'C++', link: '/blogs/language/CPlusPlus/' },
+          { text: 'Java', link: '/blogs/language/Java/' },
+          { text: 'Lua', link: '/blogs/language/Lua/' },
+          { text: 'OC', link: '/blogs/language/OC/' },
+          { text: 'Python', link: '/blogs/language/Python/' }
         ]
       },
       { text: 'Contact', 
@@ -36,10 +50,10 @@ module.exports = {
     type: 'blog',
     // 博客设置
     blogConfig: {
-      category: {
-        location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: 'Category' // 默认 “分类”
-      },
+      // category: {
+      //   location: 2, // 在导航栏菜单中所占的位置，默认2
+      //   text: 'Category' // 默认 “分类”
+      // },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
         text: 'Tag' // 默认 “标签”
