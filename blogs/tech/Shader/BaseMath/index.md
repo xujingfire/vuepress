@@ -9,16 +9,16 @@ tags:
 categories:
 - Shader
 ---
-1. 余弦定理：
+1. **余弦定理：**
    对于任意三角形，任何一边的平方等于其他两边平方的和减去这两边与它们夹角的余弦的积的两倍。
 
-![An image](./ta.png)
+<img src="./ta.png" alt="An image" style="zoom:67%;" />
 $$
 c^2 = a^2 + b^2 - 2ab\cos\gamma
 $$
 余弦定理，可以用来推导向量的点积
 
-2. 向量的点积（点乘）公式：
+2. **向量的点积（点乘）公式：**
 
 $$
 a\cdot b = (a_x,a_y,a_z)\cdot(b_x,b_y,b_z) = a_xb_x + a_yb_y + a_zb_z
@@ -32,7 +32,7 @@ $$
 
 <img src="./image-20220118144852067.png" alt="image-20220118144852067" style="zoom: 33%;" />
 
-3. 向量的叉乘公式
+3. **向量的叉乘公式**
    $$
    a \times\ b = (a_x, a_y, a_z) \times\ (b_x, b_y, b_z) = (a_yb_z - a_zb_y) + (a_zb_x - a_xb_z) + (a_xb_y - a_yb_x)
    $$
