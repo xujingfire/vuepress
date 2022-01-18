@@ -107,12 +107,5 @@ module.exports = {
   },
   markdown: {
     lineNumbers: true
-  },
-  configureWebpack: {
-    resolve: {
-      alias: {
-        // '@doc_images': 'doc_images'
-      }
-    }
   }
 }  
