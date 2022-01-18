@@ -11,7 +11,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Tech',
+      {
+        text: 'Tech',
         icon: 'reco-message',
         items: [
           { text: 'Unity', link: '/blogs/Unity/' },
@@ -19,7 +20,8 @@ module.exports = {
           { text: '设计模式', link: '/blogs/dm/' }
         ]
       },
-      { text: '编程语言',
+      {
+        text: '编程语言',
         icon: 'reco-message',
         items: [
           { text: 'C#', link: '/blogs/language/CSharp/' },
@@ -31,7 +33,8 @@ module.exports = {
           { text: 'Python', link: '/blogs/language/Python/' }
         ]
       },
-      { text: 'Contact', 
+      {
+        text: 'Contact',
         icon: 'reco-message',
         items: [
           { text: 'GitHub', link: 'https://github.com/xujingfire', icon: 'reco-github' },
@@ -46,7 +49,7 @@ module.exports = {
         'plugin',
         'api'
       ]
-    },  
+    },
     type: 'blog',
     // 博客设置
     blogConfig: {
