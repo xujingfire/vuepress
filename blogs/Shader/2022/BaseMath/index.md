@@ -12,7 +12,7 @@ categories:
 1. 余弦定理：
    对于任意三角形，任何一边的平方等于其他两边平方的和减去这两边与它们夹角的余弦的积的两倍。
 
-![img]({{ require('ta.png') }})
+![An image](./ta.png)
 $$
 c^2 = a^2 + b^2 - 2ab\cos\gamma
 $$
