@@ -106,6 +106,12 @@ module.exports = {
     // }
   },
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    extendMarkdown: md => {
+      md.set({
+          html: true
+      })
+      md.use(require('@neilsustc/markdown-it-katex'), {"throwOnError" : false, "errorColor" : " #cc0000"})
+  }
   }
 }  
