@@ -35,7 +35,7 @@ $$
 
 3. **向量的叉乘公式**
    $$
-   a \times\ b = (a_x, a_y, a_z) \times\ (b_x, b_y, b_z) = (a_yb_z - a_zb_y) + (a_zb_x - a_xb_z) + (a_xb_y - a_yb_x)
+   a \times\ b = (a_x, a_y, a_z) \times\ (b_x, b_y, b_z) = (a_yb_z - a_zb_y,a_zb_x - a_xb_z,a_xb_y - a_yb_x)
    $$
 
 叉乘不满足交换律，即 a×b ≠ b×a，但满足反交换律 a×b = −(b×a)，叉乘也不满足结合律，即 (a×b) ×c ≠ a×(b×c)
