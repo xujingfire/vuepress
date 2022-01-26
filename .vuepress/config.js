@@ -76,6 +76,12 @@ module.exports = {
         desc: '不收费，无水印的素材网站',
         email: 'xujingfire@qq.com',
         link: 'https://www.tuvovo.com'
+      },
+      {
+        title:'vercel',
+        desc:'vercel',
+        link:'https://vercel.com/',
+        email:'anchor@vercel.com'
       }
     ],
     logo: '/logo.png',
