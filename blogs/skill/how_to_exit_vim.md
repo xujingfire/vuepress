@@ -1,6 +1,6 @@
 ---
 title: 如何退出vim
-date: 2022-01-18
+date: 2022-02-18
 tags:
  - vim
 ---
