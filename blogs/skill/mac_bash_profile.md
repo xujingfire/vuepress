@@ -11,3 +11,8 @@ tags:
 
 在~/.zshrc文件最后，增加一行：
 source ~/.bash_profile
+
+
+<a href="tuyoogamespoker://cm/v1/verify_account?ott=sdfsdfsdfsdfsdf_sdfsdfsdf">tuyoogamespoker://cm/v1/verify_account?ott=sdfsdfsdfsdfsdf_sdfsdfsdf</a>
+
+<a href="tuyoogamespoker://cm/v1/launch_game?gameId=sdfsdfsdfsdfsdf>tuyoogamespoker://cm/v1/launch_game?gameId=sdfsdfsdfsdfsdf</a>
